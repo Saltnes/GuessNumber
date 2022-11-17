@@ -38,7 +38,8 @@ namespace GuessN
                 else
                 {
                     Console.WriteLine("{0} is right. Congratulations you guessed the number!", userGuess);
-                    Console.WriteLine("You used: {0}", guesses + " guesses!");
+                    Console.WriteLine("You used: {0}", guesses + " guesses! Press any key to exit.");
+                    Console.ReadLine();
                 }
             }
         }
