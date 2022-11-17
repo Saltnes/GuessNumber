@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessN", "GuessN\GuessN.csproj", "{F22FF9F7-FE5C-4F00-BA0B-AC139F3ECB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22FF9F7-FE5C-4F00-BA0B-AC139F3ECB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22FF9F7-FE5C-4F00-BA0B-AC139F3ECB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22FF9F7-FE5C-4F00-BA0B-AC139F3ECB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22FF9F7-FE5C-4F00-BA0B-AC139F3ECB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

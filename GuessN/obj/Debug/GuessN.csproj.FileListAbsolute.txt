@@ -1,0 +1,7 @@
+C:\Users\robin\RiderProjects\GuessN\GuessN\bin\Debug\GuessN.exe
+C:\Users\robin\RiderProjects\GuessN\GuessN\bin\Debug\GuessN.pdb
+C:\Users\robin\RiderProjects\GuessN\GuessN\obj\Debug\GuessN.csproj.AssemblyReference.cache
+C:\Users\robin\RiderProjects\GuessN\GuessN\obj\Debug\GuessN.csproj.SuggestedBindingRedirects.cache
+C:\Users\robin\RiderProjects\GuessN\GuessN\obj\Debug\GuessN.csproj.CoreCompileInputs.cache
+C:\Users\robin\RiderProjects\GuessN\GuessN\obj\Debug\GuessN.exe
+C:\Users\robin\RiderProjects\GuessN\GuessN\obj\Debug\GuessN.pdb
